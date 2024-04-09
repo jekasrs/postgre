@@ -1,2 +1,1 @@
-# postgre
-PostgreSQL client starter
+# Реализация консольного приложения, которое устанавливает PostgreSQL на удаленный хост через ssh
